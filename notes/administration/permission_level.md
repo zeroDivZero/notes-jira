@@ -8,10 +8,12 @@ Applies to overall app, not specific to project.
 
 E.g.:
 
+* **Administer Jira**
 * **Browse users and groups**
 * **Share dashboards and filters**
 * **Manage group filter subscriptions**
 * **Make bulk changes**
+* **Create team-managed projects**
 
 ## Project Permissions
 
