@@ -24,3 +24,5 @@ Group given project permissions through **Permission Scheme**.
 ### Permission Scheme
 
 Each project's permissions are defined by permission scheme. Single permission scheme can be assigned to multiple projects, but each project can only have one permission scheme.
+
+Permission scheme includes specifying permissions like create, edit, delete issues.
