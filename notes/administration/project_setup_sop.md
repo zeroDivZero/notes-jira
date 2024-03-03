@@ -6,15 +6,17 @@ Project owner, developers, client, etc.
 
 ## 2. Create Groups
 
-Helps organize users.
+Helps organize users. Make sure to update product access, so added groups can access Jira.
 
 ## 3. Create Project Roles
 
-Not always 1-to-1 to users and groups.
+Not always 1-to-1 to users and groups. Can specify default members and groups.
 
 ## 4. Create Permission Scheme
 
-Specific to project. Assign project permissions to respective roles.
+Specific to project. Under **Issues** section. Assign project permissions to respective roles.
+
+May be faster to create from scratch than copying existing and modifying.
 
 ## 5. Create Project
 
